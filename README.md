@@ -1,6 +1,6 @@
-**1. 🎵 Introduction**
-![Screenshot 2025-06-24 022536](https://github.com/user-attachments/assets/e23026c2-8f17-462d-968c-68b0f7a518c3)
 
+![Screenshot 2025-06-24 022536](https://github.com/user-attachments/assets/e23026c2-8f17-462d-968c-68b0f7a518c3)
+**1. 🎵 Introduction**
 
 This dashboard shows how songs on Spotify perform—tracking streams by release date, month, day, and highlighting top tracks and audio features.
 
