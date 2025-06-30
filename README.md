@@ -199,10 +199,10 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
     <a href="https://www.linkedin.com/in/saksham-yadav-3b2930350/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href= "https://github.com/saksham436"target="_blank">
+    <a href= "https://github.com/saksham436?tab=repositories"target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="mailto:saksham.analytics@gmail.com">
+    <a href="sakshamyadav809@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://github.com/saksham03/saksham03/raw/main/resume.pdf" target="_blank">
