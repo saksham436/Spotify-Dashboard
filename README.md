@@ -28,7 +28,10 @@ See what audio characteristics are common in top songs
 
 ![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
-![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
+![Screenshot 2025-06-30 182739](https://github.com/user-attachments/assets/164dc44c-c9eb-4175-bcad-fba1ed89df0c)
+
+![Screenshot 2025-06-30 182836](https://github.com/user-attachments/assets/7a0d6547-4040-4ace-b694-e61dc86e199f)
+
 
 **3. 👥 Audience & Context**
 
