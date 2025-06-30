@@ -196,7 +196,7 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
   <!-- Connect with Me Badges -->
   <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
+    <a href="https://www.linkedin.com/in/saksham-yadav-3b2930350/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/saksham03" target="_blank">
