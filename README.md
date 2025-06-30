@@ -168,30 +168,44 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 ### 👋 Connect with me:
 
+<!-- 🌟 Section Container -->
+<div style="max-width: 800px; margin: auto; padding: 20px; font-family: 'Segoe UI', sans-serif;">
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24" 
-       alt="Saksham Yadav" 
-       width="150" 
-       style="border-radius: 50%;">
-</p>
-<!-- Connect with Me Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-014B3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
-</p>
-`
+  <!-- ✅ Conclusion -->
+  <h2 style="text-align: center;">✅ Conclusion</h2>
+  <p style="text-align: center; font-size: 16px; line-height: 1.6;">
+    This dashboard gives a strong overview of Spotify streaming trends and highlights what makes songs succeed—from timing to audio style. With added details like genre, demographics, and engagement, it can become a powerful tool for strategic music planning.
+  </p>
+
+  <!-- 🤝 Connect with Me -->
+  <h2 style="text-align: center; margin-top: 40px;">🤝 Connect with Me</h2>
+
+  <!-- Profile Image -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/your-image-id" 
+         alt="Saksham Yadav" 
+         width="140" 
+         style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </div>
+
+  <!-- Social Badges -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+    <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/yourusername" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://your-resume-link.com" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+    </a>
+  </div>
+
+</div>
+
 
 
 
