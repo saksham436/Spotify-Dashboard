@@ -167,6 +167,9 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 
 ### 👋 Connect with me:
+
+
+
 <!-- 🌟 Section Container -->
 <div style="max-width: 800px; margin: auto; padding: 20px; font-family: 'Segoe UI', sans-serif; background-color: #f5f7fa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
 
