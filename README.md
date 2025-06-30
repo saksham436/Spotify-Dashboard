@@ -162,7 +162,11 @@ Enhance visuals with benchmarks and alert notifications
 
 **10. ✅ Conclusion**
 This dashboard gives a strong overview of Spotify streaming trends and highlights what makes songs succeed—from timing to audio style. With added details like genre, demographics, and engagement, it can become a powerful tool for strategic music planning.
-   
+
+
+
+
+**** Connect with me ****
 
 <div>
    <p align="center">
