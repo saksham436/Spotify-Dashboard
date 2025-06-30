@@ -164,27 +164,14 @@ Enhance visuals with benchmarks and alert notifications
 This dashboard gives a strong overview of Spotify streaming trends and highlights what makes songs succeed—from timing to audio style. With added details like genre, demographics, and engagement, it can become a powerful tool for strategic music planning.
    
 
-<!-- 🌟 Section Container -->
-<div style="max-width: 800px; margin: auto; padding: 20px; font-family: 'Segoe UI', sans-serif;">
-
-  <!-- ✅ Conclusion -->
-  <h2 style="text-align: center;">✅ Conclusion</h2>
-  <p style="text-align: center; font-size: 16px; line-height: 1.6;">
-    This dashboard gives a strong overview of Spotify streaming trends and highlights what makes songs succeed—from timing to audio style. With added details like genre, demographics, and engagement, it can become a powerful tool for strategic music planning.
-  </p>
-
-  <!-- 🤝 Connect with Me -->
-  <h2 style="text-align: center; margin-top: 40px;">🤝 Connect with Me</h2>
-
-  <!-- Profile Image Centered Above Buttons -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24"
-         alt="Saksham Yadav"
-         width="150"
-         style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 12px;">
-    <p style="font-size: 20px; font-weight: bold; color: #111;">Saksham Yadav</p>
-  </div>
-
+<div>
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24" 
+       alt="Saksham Yadav" 
+       width="150" 
+       style="border-radius: 50%;">
+</p>
+</div>
   <!-- Connect with Me Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
