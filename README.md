@@ -168,7 +168,11 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 ### 👋 Connect with me:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c06e407c-176f-41bb-942f-50f8c3aeb585" alt="Saksham Yadav" width="150" style="border-radius: 50%;"> </p>
+  <img src="https://github.com/user-attachments/assets/c06e407c-176f-41bb-942f-50f8c3aeb585" 
+       alt="Saksham Yadav" 
+       width="150" 
+       style="border-radius: 50%;">
+</p>
 [![Download Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](file:///S:/resume/sk%20Cv%20Resume%20(1).pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-3b2930350/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?hl=en&gar=WzEyMF0)
