@@ -79,11 +79,6 @@ Top track panel: “Blinding Lights” with audio snapshot
 
 Gallery: Top 5 streamed tracks
 
-
-![Screenshot 2025-06-30 182739](https://github.com/user-attachments/assets/164dc44c-c9eb-4175-bcad-fba1ed89df0c)
-
-![Screenshot 2025-06-30 182836](https://github.com/user-attachments/assets/7a0d6547-4040-4ace-b694-e61dc86e199f)
-
 ![Screenshot 2025-06-30 182959](https://github.com/user-attachments/assets/bc546d76-9be2-4f98-93e5-f2e24cd84cbc)
 **6. 🚀 Key Insights**
 
@@ -182,7 +177,9 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 
 
-                                         ![image](https://github.com/user-attachments/assets/ccea632a-a875-41da-97ce-69ef379baccb)
+![image](https://github.com/user-attachments/assets/78f7a27d-fe50-4540-9d0d-f542fea16708)
+
+                                    
 
 
 <div>
