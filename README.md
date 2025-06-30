@@ -1,10 +1,8 @@
 
-![image](https://github.com/user-attachments/assets/20ca4b9f-9817-4c0c-ba58-37ca83ac3159)
 
 
 
 
-![image](https://github.com/user-attachments/assets/2bc6bcc2-971d-4784-a385-f0018969ef75)
 
 ![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
@@ -15,11 +13,13 @@
 ![Screenshot 2025-06-30 182959](https://github.com/user-attachments/assets/bc546d76-9be2-4f98-93e5-f2e24cd84cbc)
 
 
-
+![image](https://github.com/user-attachments/assets/20ca4b9f-9817-4c0c-ba58-37ca83ac3159)
 
 **1. 🎵 Introduction**
 
 This dashboard shows how songs on Spotify perform—tracking streams by release date, month, day, and highlighting top tracks and audio features.
+
+![image](https://github.com/user-attachments/assets/2bc6bcc2-971d-4784-a385-f0018969ef75)
 
 **2. 🎯 Purpose & Objective**
 
@@ -32,6 +32,11 @@ Identify hit tracks and artists
 Discover patterns by release date, month, and weekday
 
 See what audio characteristics are common in top songs
+
+
+
+
+![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
 **3. 👥 Audience & Context**
 
