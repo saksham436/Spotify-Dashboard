@@ -171,12 +171,11 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="![saksham1](https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24)" 
+  <img src="https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24" 
        alt="Saksham Yadav" 
        width="150" 
-       style="border-radius: 50%;">
+       style="border-radius: 50%;">
 </p>
-
 <!-- Connect with Me Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
