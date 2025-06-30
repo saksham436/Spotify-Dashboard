@@ -28,6 +28,8 @@ See what audio characteristics are common in top songs
 
 ![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
+![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
+
 **3. 👥 Audience & Context**
 
 Audience:
@@ -38,9 +40,6 @@ Artists deciding when to release new songs
 
 Context: Helps in planning releases and marketing based on listener behavior
 
-
-
-![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
 **4. 📚 Data Source & Scope**
 
