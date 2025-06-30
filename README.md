@@ -182,12 +182,14 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
   <h2 style="text-align: center; margin-top: 40px;">🤝 Connect with Me</h2>
 
   <!-- Profile Image -->
-  <div style="text-align: center; margin-bottom: 20px;">
+   <div style="text-align: center; margin: 20px 0;">
     <img src="https://github.com/user-attachments/assets/27d9edd1-4a8e-4f9c-a26d-6c0f3b89ce24"
-         alt="Saksham Yadav" 
-         width="150" 
+         alt="Saksham Yadav"
+         width="150"
          style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-size: 20px; font-weight: bold; color: #111;">Saksham Yadav</p>
   </div>
+
 </p>
 <!-- Connect with Me Badges -->
 <p align="center">
