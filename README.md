@@ -3,16 +3,6 @@
 
 
 
-
-![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
-
-![Screenshot 2025-06-30 182739](https://github.com/user-attachments/assets/164dc44c-c9eb-4175-bcad-fba1ed89df0c)
-
-![Screenshot 2025-06-30 182836](https://github.com/user-attachments/assets/7a0d6547-4040-4ace-b694-e61dc86e199f)
-
-![Screenshot 2025-06-30 182959](https://github.com/user-attachments/assets/bc546d76-9be2-4f98-93e5-f2e24cd84cbc)
-
-
 ![image](https://github.com/user-attachments/assets/20ca4b9f-9817-4c0c-ba58-37ca83ac3159)
 
 **1. 🎵 Introduction**
@@ -47,6 +37,10 @@ Music analysts, marketers, record labels
 Artists deciding when to release new songs
 
 Context: Helps in planning releases and marketing based on listener behavior
+
+
+
+![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
 
 **4. 📚 Data Source & Scope**
 
@@ -83,6 +77,12 @@ Top track panel: “Blinding Lights” with audio snapshot
 
 Gallery: Top 5 streamed tracks
 
+
+![Screenshot 2025-06-30 182739](https://github.com/user-attachments/assets/164dc44c-c9eb-4175-bcad-fba1ed89df0c)
+
+![Screenshot 2025-06-30 182836](https://github.com/user-attachments/assets/7a0d6547-4040-4ace-b694-e61dc86e199f)
+
+![Screenshot 2025-06-30 182959](https://github.com/user-attachments/assets/bc546d76-9be2-4f98-93e5-f2e24cd84cbc)
 **6. 🚀 Key Insights**
 
 
