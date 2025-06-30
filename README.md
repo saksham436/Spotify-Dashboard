@@ -195,8 +195,7 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
        alt="Saksham yadav" 
        width="150" 
        style="border-radius: 50%;">
-       <h1 style="text-align: center;">      Saksham Yadav</h1>
-    
+    <h1 style="font-size: 24px; font-weight: bold; color: #222;">Saksham Yadav</h1> 
 </p>
 </div>
 
