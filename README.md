@@ -1,3 +1,9 @@
+
+![image](https://github.com/user-attachments/assets/20ca4b9f-9817-4c0c-ba58-37ca83ac3159)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/2bc6bcc2-971d-4784-a385-f0018969ef75)
 
 ![Screenshot 2025-06-30 182622](https://github.com/user-attachments/assets/8481e87c-8423-4b63-8d2e-be8630b82f1a)
@@ -168,16 +174,8 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 
 
-![image](https://github.com/user-attachments/assets/e3aabb5d-da83-4db7-81bf-4d6c20daa194)
 
-
-
-
-
-
-
-
-
+                                         ![image](https://github.com/user-attachments/assets/ccea632a-a875-41da-97ce-69ef379baccb)
 
 
 <div>
