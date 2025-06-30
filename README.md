@@ -167,18 +167,32 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
 
 
 ### 👋 Connect with me:
+
+html
+<!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c06e407c-176f-41bb-942f-50f8c3aeb585" 
+  <img src="https://github.com/user-attachments/assets/c06e407c-176f-418b-924f-50f6c3acb585" 
        alt="Saksham Yadav" 
        width="150" 
-       style="border-radius: 50%;">
-[![Download Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](file:///S:/resume/sk%20Cv%20Resume%20(1).pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-yadav-3b2930350/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?hl=en&gar=WzEyMF0)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  
+       style="border-radius: 50%;">
 </p>
 
+<!-- Connect with Me Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-yadav-380b251b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-014B3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
+`
 
 
 
