@@ -195,9 +195,7 @@ This dashboard gives a strong overview of Spotify streaming trends and highlight
        alt="Saksham yadav" 
        width="150" 
        style="border-radius: 50%;">
-     
-                                             
-![image](https://github.com/user-attachments/assets/9c2114f4-d6e1-4937-9013-db9171f0235c)
+    
 
 </p>
 </div>
