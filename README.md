@@ -5,13 +5,13 @@
 
 ![image](https://github.com/user-attachments/assets/20ca4b9f-9817-4c0c-ba58-37ca83ac3159)
 
-**1. 🎵 Introduction**
+**1.  Introduction**
 
 This dashboard shows how songs on Spotify perform—tracking streams by release date, month, day, and highlighting top tracks and audio features.
 
 ![image](https://github.com/user-attachments/assets/2bc6bcc2-971d-4784-a385-f0018969ef75)
 
-**2. 🎯 Purpose & Objective**
+**2. Purpose & Objective**
 
 Purpose: Understand when and why certain songs get more streams.
 
@@ -33,7 +33,7 @@ See what audio characteristics are common in top songs
 ![Screenshot 2025-06-30 182836](https://github.com/user-attachments/assets/7a0d6547-4040-4ace-b694-e61dc86e199f)
 
 
-**3. 👥 Audience & Context**
+**3. Audience & Context**
 
 Audience:
 
@@ -56,7 +56,7 @@ Timeframe: songs released from 1930 to mid-2023
 
 Filters allow narrowing by date, track, or artist
 
-**5. 🗂 Dashboard Overview**
+**5. Dashboard Overview**
 Filters at top: Choose Track, Date range, Artist
 
 Key Metrics (KPIs):
@@ -80,7 +80,7 @@ Top track panel: “Blinding Lights” with audio snapshot
 Gallery: Top 5 streamed tracks
 
 ![Screenshot 2025-06-30 182959](https://github.com/user-attachments/assets/bc546d76-9be2-4f98-93e5-f2e24cd84cbc)
-**6. 🚀 Key Insights**
+**6.  Key Insights**
 
 
 ~7.8 billion total streams across all tracks
@@ -123,7 +123,7 @@ Album art adds visual appeal
 
 Interactive filters invite deeper exploration
 
-**7. 🗣 Discussion****
+**7.  Discussion****
 
 
 Why January & September spikes? Holiday season, student breaks
@@ -134,7 +134,7 @@ Audio patterns: Energetic, catchy, low speech content is common in hits
 
 Artist success: The Weeknd stands out with global appeal
 
-**8. ⚠️ Limitations**
+**8.  Limitations**
 
 
 No genre or listener demographic details
@@ -151,7 +151,7 @@ Audio features cover only some traits
 
 No forecasting or predictive modeling
 
-**9. 💡 Recommendations & Future Scope**
+**9.  Recommendations & Future Scope**
 
 
 Add genre & demographic filters to see audience differences
@@ -168,7 +168,7 @@ Build predictive models to forecast future hits
 
 Enhance visuals with benchmarks and alert notifications
 
-**10. ✅ Conclusion**
+**10.  Conclusion**
 
 This dashboard gives a strong overview of Spotify streaming trends and highlights what makes songs succeed—from timing to audio style. With added details like genre, demographics, and engagement, it can become a powerful tool for strategic music planning.
 
