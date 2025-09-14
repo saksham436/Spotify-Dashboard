@@ -2,10 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/47122b44-6eca-49f8-9b26-f4198587109f)
 
-##🎧 Spotify Music Analysis Dashboard
+Spotify Music Analysis Dashboard<img width="730" height="105" alt="image" src="https://github.com/user-attachments/assets/79ad7821-5c41-47f0-b9f0-f61741ad9678" />
+
 A Deep Dive into Streaming Trends, Audio Features, and Listener Behavior
 
-##1. 🧭 Introduction**
+Introduction<img width="308" height="105" alt="image" src="https://github.com/user-attachments/assets/38a9a67f-29de-491c-8bcf-d3293e85d68e" />
+
 In the age of digital music, streaming platforms like Spotify have revolutionized how audiences discover, consume, and engage with music. With billions of streams occurring daily, understanding what drives a song’s popularity has become essential for artists, marketers, and record labels.
 This dashboard project was built to analyze Spotify streaming data across multiple dimensions—release timing, weekday patterns, and audio characteristics. It offers a comprehensive view of how songs perform over time, what traits are common in top tracks, and how listener behavior shifts across seasons and days.
 The dashboard is interactive, visually engaging, and designed to support strategic decision-making in the music industry. Whether you're an independent artist planning your next release or a data analyst working with a label, this tool provides actionable insights backed by real-world data.
