@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/47122b44-6eca-49f8-9b26-f4198587109f)
 
-d<img width="1097" height="158" alt="image" src="https://github.com/user-attachments/assets/a5e224ed-0fe7-4119-8f51-c715907c9fce" />
+<img width="1097" height="158" alt="image" src="https://github.com/user-attachments/assets/a5e224ed-0fe7-4119-8f51-c715907c9fce" />
 
 
 
