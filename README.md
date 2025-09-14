@@ -5,16 +5,17 @@
 d<img width="1097" height="158" alt="image" src="https://github.com/user-attachments/assets/a5e224ed-0fe7-4119-8f51-c715907c9fce" />
 
 
-A Deep Dive into Streaming Trends, Audio Features, and Listener Behavior
 
 <img width="308" height="105" alt="image" src="https://github.com/user-attachments/assets/38a9a67f-29de-491c-8bcf-d3293e85d68e" />
 
+A Deep Dive into Streaming Trends, Audio Features, and Listener Behavior
 In the age of digital music, streaming platforms like Spotify have revolutionized how audiences discover, consume, and engage with music. With billions of streams occurring daily, understanding what drives a song’s popularity has become essential for artists, marketers, and record labels.
 This dashboard project was built to analyze Spotify streaming data across multiple dimensions—release timing, weekday patterns, and audio characteristics. It offers a comprehensive view of how songs perform over time, what traits are common in top tracks, and how listener behavior shifts across seasons and days.
 The dashboard is interactive, visually engaging, and designed to support strategic decision-making in the music industry. Whether you're an independent artist planning your next release or a data analyst working with a label, this tool provides actionable insights backed by real-world data.
 
-##2. 🎯 Purpose & Objectives
-Purpose
+<img width="491" height="105" alt="image" src="https://github.com/user-attachments/assets/0388b019-65de-4bcf-8e4a-8d9d9a1d41ad" />
+
+
 The primary goal of this dashboard is to understand when and why certain songs receive more streams on Spotify. By analyzing historical data and audio features, we aim to uncover patterns that contribute to a song’s success.
 Objectives
 - Identify hit tracks and standout artists
@@ -27,7 +28,8 @@ Explore features like energy, danceability, speechiness, and more.
 Provide insights that help optimize release schedules, marketing campaigns, and playlist placements.
 This project bridges the gap between raw data and strategic music planning, offering a data-driven lens into the world of streaming.
 
-##3. 👥 Audience & Context
+<img width="460" height="105" alt="image" src="https://github.com/user-attachments/assets/9bc4fcb6-8a2f-4f4f-b153-48069e9b85a1" />
+
 Target Audience
 This dashboard is designed for a wide range of stakeholders in the music ecosystem:
 - Music Analysts & Data Scientists
@@ -41,7 +43,8 @@ Experts managing playlists, algorithms, and user engagement.
 Context
 In today’s competitive music landscape, timing and style can make or break a song. Understanding when listeners are most active, what audio traits they prefer, and which songs go viral helps stakeholders make informed decisions. This dashboard provides that context—turning data into strategy.
 
-##4. 📚 Data Source & Scope
+<img width="478" height="105" alt="image" src="https://github.com/user-attachments/assets/52aa1052-aec2-49f4-92b8-c76390e2eace" />
+
 Source
 The data was sourced from Spotify’s public APIs and includes:
 - Stream Counts
@@ -57,7 +60,8 @@ Scope
 - Filters: Users can narrow results by track, artist, or release date
 This broad historical range allows for comparisons between classic and modern music eras, revealing how streaming behavior has evolved over time.
 
-##5. 📊 Dashboard Overview
+<img width="479" height="105" alt="image" src="https://github.com/user-attachments/assets/6fb17d11-85a5-416c-a23d-225a7ee8346e" />
+
 Filters
 At the top of the dashboard, users can apply filters to customize their view:
 - Track Selector
@@ -77,7 +81,8 @@ Visual Components
 - Gallery: Displays top 5 streamed tracks with album art
 The visuals guide users from high-level trends to granular insights, making the dashboard both intuitive and informative.
 
-##6. 🔍 Key Insights
+<img width="295" height="105" alt="image" src="https://github.com/user-attachments/assets/ab41ac80-c2c0-4516-977b-e1a85a5178b0" />
+
 Overall Trends
 - Total Streams: ~7.8 billion across all tracks
 - Average per Track: ~521 million plays
@@ -108,7 +113,8 @@ Other Top Tracks
 - “Butterfly”
 These songs share similar audio profiles, suggesting that certain sonic characteristics consistently perform well.
 
-##7. 💬 Discussion
+<img width="269" height="105" alt="image" src="https://github.com/user-attachments/assets/992ba55c-97f6-4c83-b671-3efeb4e6c14f" />
+
 Why January & September Spikes?
 - January: Post-holiday downtime, fresh playlists, new year releases
 - September: Back-to-school season, renewed listening habits
@@ -126,7 +132,8 @@ Artist Success
 - The Weeknd stands out with multiple top tracks
 - His global appeal, consistent audio style, and strategic releases contribute to high stream counts
 
-##8. ⚠️ Limitations
+<img width="280" height="105" alt="image" src="https://github.com/user-attachments/assets/f007e681-6164-4aba-a7bd-5f86957aaf14" />
+
 While the dashboard provides valuable insights, there are some limitations:
 - No Genre Breakdown
 Can’t compare pop vs. rock vs. hip-hop
@@ -144,7 +151,8 @@ Tempo, valence, and other traits not included
 Doesn’t forecast future hits
 These gaps can be addressed in future iterations to make the dashboard more robust and insightful.
 
-##9. 🚀 Recommendations & Future Scope
+<img width="756" height="105" alt="image" src="https://github.com/user-attachments/assets/ae582135-bca8-439e-935d-6f6a27045116" />
+
 To enhance the dashboard’s utility and depth, the following improvements are recommended:
 Add Genre & Demographics
 - Filter by genre to compare performance across music styles
@@ -169,7 +177,8 @@ Enhance Visuals
 - Use color-coded indicators to highlight trends
 These additions would make the dashboard a powerful tool for strategic music planning and performance optimization.
 
-##10. ✅ Conclusion
+<img width="280" height="105" alt="image" src="https://github.com/user-attachments/assets/fa2d077c-026b-4427-82c9-b524bd344990" />
+
 This Spotify Music Analysis dashboard offers a compelling look into what makes songs successful on streaming platforms. By examining release timing, weekday patterns, and audio features, it uncovers the formula behind viral hits and consistent performers.
 With over 7.8 billion streams analyzed across 938 tracks, the dashboard reveals that:
 - Timing matters—January, September, and Fridays are key
